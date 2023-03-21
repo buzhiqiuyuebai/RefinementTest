@@ -1,0 +1,11 @@
+!Any
+components:
+  - !GroupFilter
+    groups: 1
+    components: !ConstantMap
+      map:
+        rho:    1000.0
+        mu:     0
+        lambda: 2.25e9
+
+
